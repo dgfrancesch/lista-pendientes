@@ -1,4 +1,4 @@
-import { Tarea } from "./tarea"
+import { Tarea } from "./Tarea"
 
 type ListaTareas = {
     listaTareas: string[]
